@@ -1,2 +1,2 @@
-print(vvce)
-print(mysore)
+print("vvce")
+print("mysore")
